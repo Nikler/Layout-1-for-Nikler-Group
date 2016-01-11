@@ -1,0 +1,25 @@
+{
+  "name": "nikler-project",
+  "description": "Nikler Group Project",
+  "main": "gulpfile.js",
+  "authors": [
+    "nikler"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "modernizr-min": "~3.2.0",
+    "bootstrap": "~3.3.6",
+    "bourbon": "~4.2.6"
+  }
+}
